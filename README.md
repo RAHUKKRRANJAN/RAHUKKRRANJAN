@@ -1,7 +1,7 @@
 [![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*2pDfmw4aoUr4iOELEIcag.gif)](https://github.com/RAHUKKRRANJAN)
 
 <h1 align="center">Hi 👋, I'm Rahul Kumar</h1>
-<h3 align="center">🤖 AI Engineer | ROS Developer | Robotics Enthusiast from India 🇮🇳</h3>
+<h3 align="center">🤖 AI/ML Engineer | Software Engineer(ROS Developer) | Robotics Enthusiast from India 🇮🇳</h3>
 
 <img align="right" alt="AI Coding" width="400" src="https://cdnl.iconscout.com/lottie/premium/thumb/boy-doing-coding-with-the-help-of-ai-robot-10025683-8137287.gif">
 
